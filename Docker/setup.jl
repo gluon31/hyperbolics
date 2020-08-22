@@ -1,4 +1,4 @@
-Pkg.init()
+using Pkg
 Pkg.add("Pandas")
 Pkg.add("JLD")
 # Force compile
